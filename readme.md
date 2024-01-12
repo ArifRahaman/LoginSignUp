@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/LoginSignUp.git
+   https://github.com/ArifRahaman/LoginSignUp.git
     ```
 
 ### Frontend
